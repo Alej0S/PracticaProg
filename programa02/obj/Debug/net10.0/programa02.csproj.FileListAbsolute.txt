@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\EjercicioProg3\programa02\bin\Debug\net10.0\programa02.exe
+C:\Users\Usuario\Desktop\EjercicioProg3\programa02\bin\Debug\net10.0\programa02.deps.json
+C:\Users\Usuario\Desktop\EjercicioProg3\programa02\bin\Debug\net10.0\programa02.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjercicioProg3\programa02\bin\Debug\net10.0\programa02.dll
+C:\Users\Usuario\Desktop\EjercicioProg3\programa02\bin\Debug\net10.0\programa02.pdb
+C:\Users\Usuario\Desktop\EjercicioProg3\programa02\obj\Debug\net10.0\programa02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjercicioProg3\programa02\obj\Debug\net10.0\programa02.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjercicioProg3\programa02\obj\Debug\net10.0\programa02.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjercicioProg3\programa02\obj\Debug\net10.0\programa02.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjercicioProg3\programa02\obj\Debug\net10.0\programa02.dll
+C:\Users\Usuario\Desktop\EjercicioProg3\programa02\obj\Debug\net10.0\refint\programa02.dll
+C:\Users\Usuario\Desktop\EjercicioProg3\programa02\obj\Debug\net10.0\programa02.pdb
+C:\Users\Usuario\Desktop\EjercicioProg3\programa02\obj\Debug\net10.0\programa02.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\EjercicioProg3\programa02\obj\Debug\net10.0\ref\programa02.dll

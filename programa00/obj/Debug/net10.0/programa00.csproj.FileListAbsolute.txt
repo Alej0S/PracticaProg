@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Ejercicioprog3\programa00\bin\Debug\net10.0\programa00.exe
+C:\Users\Usuario\Desktop\Ejercicioprog3\programa00\bin\Debug\net10.0\programa00.deps.json
+C:\Users\Usuario\Desktop\Ejercicioprog3\programa00\bin\Debug\net10.0\programa00.runtimeconfig.json
+C:\Users\Usuario\Desktop\Ejercicioprog3\programa00\bin\Debug\net10.0\programa00.dll
+C:\Users\Usuario\Desktop\Ejercicioprog3\programa00\bin\Debug\net10.0\programa00.pdb
+C:\Users\Usuario\Desktop\Ejercicioprog3\programa00\obj\Debug\net10.0\programa00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Ejercicioprog3\programa00\obj\Debug\net10.0\programa00.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Ejercicioprog3\programa00\obj\Debug\net10.0\programa00.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Ejercicioprog3\programa00\obj\Debug\net10.0\programa00.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ejercicioprog3\programa00\obj\Debug\net10.0\programa00.dll
+C:\Users\Usuario\Desktop\Ejercicioprog3\programa00\obj\Debug\net10.0\refint\programa00.dll
+C:\Users\Usuario\Desktop\Ejercicioprog3\programa00\obj\Debug\net10.0\programa00.pdb
+C:\Users\Usuario\Desktop\Ejercicioprog3\programa00\obj\Debug\net10.0\programa00.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Ejercicioprog3\programa00\obj\Debug\net10.0\ref\programa00.dll
