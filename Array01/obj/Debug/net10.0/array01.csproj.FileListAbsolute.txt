@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\EjercicioProg3\Array01\bin\Debug\net10.0\array01.exe
+C:\Users\Usuario\Desktop\EjercicioProg3\Array01\bin\Debug\net10.0\array01.deps.json
+C:\Users\Usuario\Desktop\EjercicioProg3\Array01\bin\Debug\net10.0\array01.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjercicioProg3\Array01\bin\Debug\net10.0\array01.dll
+C:\Users\Usuario\Desktop\EjercicioProg3\Array01\bin\Debug\net10.0\array01.pdb
+C:\Users\Usuario\Desktop\EjercicioProg3\Array01\obj\Debug\net10.0\array01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjercicioProg3\Array01\obj\Debug\net10.0\array01.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjercicioProg3\Array01\obj\Debug\net10.0\array01.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjercicioProg3\Array01\obj\Debug\net10.0\array01.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjercicioProg3\Array01\obj\Debug\net10.0\array01.sourcelink.json
+C:\Users\Usuario\Desktop\EjercicioProg3\Array01\obj\Debug\net10.0\array01.dll
+C:\Users\Usuario\Desktop\EjercicioProg3\Array01\obj\Debug\net10.0\refint\array01.dll
+C:\Users\Usuario\Desktop\EjercicioProg3\Array01\obj\Debug\net10.0\array01.pdb
+C:\Users\Usuario\Desktop\EjercicioProg3\Array01\obj\Debug\net10.0\array01.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\EjercicioProg3\Array01\obj\Debug\net10.0\ref\array01.dll

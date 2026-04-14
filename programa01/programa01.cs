@@ -105,7 +105,7 @@ class Program
         Console.WriteLine("\n--- BLOQUE 2: REGISTRO DE CELULAR ---");
         // 1. Entrada de Texto (Simple)
         
-        Console.Write("Marca del celular: ");
+        Console.WriteLine("Marca del celular: ");
         string marcaCelular = Console.ReadLine();
         
         // 2. Entrada de Números (Requiere Conversión)
@@ -117,7 +117,5 @@ class Program
         Console.Write("Tamaño de la pantalla en pulgadas (ejemplo: 6,5): ");
         string pantallaTexto = Console.ReadLine();
         double tamañoPantalla = double.Parse(pantallaTexto); // Conversión directa en una línea
-
-
     }
 }
